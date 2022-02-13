@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**A1exit/A1exit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alex, he/him
 
-Here are some ideas to get you started:
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A1exit&layout=compact)]()
+![A1exit's github stats](https://github-readme-stats.vercel.app/api?username=A1exit&show_icons=true&include_all_commits=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My technology stack
+ - Python
+ - Django, DRF
+ - Docker, docker-compose
+ - PostgreSQL, SQLite
+ - Nginx, Gunicorn
+ - CI
+ - Linux
+
+### 🌱 I’m currently learning
+ - English language
+ - Algorithms, data structures
