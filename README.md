@@ -7,12 +7,12 @@ Alex, he/him
 
 ### 💻 My technology stack
  - Python
- - Django, DRF
+ - Django, DRF, FastAPI, Flask
  - Docker, docker-compose
- - PostgreSQL, SQLite
+ - PostgreSQL, Redis, Clickhouse, MongoDB, Elasticsearch
  - Nginx, Gunicorn
- - CI
- - Linux
+ - CI/CD
+ - RabbitMQ, Kafka
 
 ### 🌱 I’m currently learning
  - English language
